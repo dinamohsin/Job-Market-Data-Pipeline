@@ -88,6 +88,10 @@ The workflow of the pipeline can be summarized as follows:
 5. Raw data is cleaned and structured
 6. Final datasets are saved for analysis
 
+<p align="center">
+  <img src="https://github.com/dinamohsin/Job-Market-Data-Pipeline/blob/main/img/diagrams/1%20Wuzzuf%20Job%20Scraping%20Process.png?raw=true" alt="Process" width="500">
+</p>
+
 ---
 
 ## 5. User Input & Dynamic URL Building

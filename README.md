@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/dinamohsin/Job-Market-Data-Pipeline/blob/main/img/job_banner.png?raw=true" alt="Job Banner" width="500">
+</p>
 
 # Job Market Data Pipeline  
 ## Table of Contents

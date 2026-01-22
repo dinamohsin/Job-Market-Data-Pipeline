@@ -16,6 +16,7 @@
 7. [Data Cleaning & Modeling](#7-data-cleaning--modeling)
 8. [Output & Usage](#8-output--usage)
 9. [Project Deliverables](#9-project-deliverables)
+10. [Technologies Used](#10-technologies-used)
 
 
 ---
@@ -196,5 +197,21 @@ A relative path (`data/output`) is used to ensure the project runs seamlessly on
 - Project presentation (PDF)
 - Organized images for scraping and workflow explanation
 - Clean and reusable project structure
+
+---
+## 10. Technologies Used
+
+- **Python** – Main programming language
+- **Requests** – Fetch static web pages
+- **BeautifulSoup** – Parse HTML and extract content
+- **Selenium** – Automate browser and scrape dynamic content
+- **webdriver_manager** – Manage WebDriver installation automatically
+- **Pandas & NumPy** – Data manipulation, cleaning, and analysis
+- **ast** – Safely convert string representations into Python objects
+- **re (Regular Expressions)** – Text pattern matching and cleaning
+- **os** – File system operations (create directories, manage paths, save files)
+- **time** – Control delays for page loading
+- **math (ceil)** – Rounding operations
+
 
 
